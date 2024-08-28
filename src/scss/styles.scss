@@ -1,0 +1,118 @@
+// Import all of Bootstrap's CSS
+@import "~bootstrap/scss/bootstrap";
+
+body.main-background {
+  background-image: url("/src/imag/Bg_image.jpg");
+  background-size: cover;
+  background-position: center;
+  padding: 20px; // Keeps padding consistent with the original design
+  margin: 0; // Ensures no extra margin on the body
+
+  @media (max-width: 767.98px) {
+    padding: 0; // Remove padding on mobile devices
+  }
+}
+
+body {
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+}
+
+// Navbar
+.navbar-brand {
+  font-weight: bold;
+}
+
+.navbar-nav .nav-link {
+  padding: 10px 15px;
+}
+
+// Ensure dropdown menu fits within navbar and doesn't overflow
+.navbar-nav .dropdown-menu {
+  right: 0; // Align dropdown to the right for better placement
+  left: auto;
+}
+
+// Carousel
+.carousel-item img {
+  height: 500px;
+  object-fit: cover;
+}
+
+@media (max-width: 767.98px) {
+  .carousel-item img {
+    height: 300px; // Reduce height of carousel images on mobile
+  }
+}
+
+// Card Hover Effects
+.card {
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.card:hover {
+  transform: scale(1.05);
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.3);
+}
+
+// Content Image
+.content-img {
+  height: 300px;
+  object-fit: cover;
+  width: 100%;
+}
+
+.divider {
+  background-color: #212529;
+  color: #fff;
+  height: 48px;
+  line-height: 48px;
+}
+
+// Footer Styles
+.footer {
+  background-color: #fff;
+  color: #343a40;
+  padding: 40px 0;
+}
+
+.footer a {
+  color: #ffc107;
+  text-decoration: none;
+}
+
+.footer a:hover {
+  text-decoration: underline;
+}
+
+.footer p,
+.footer h5 {
+  margin: 0 0 10px;
+}
+
+.footer .form-control {
+  border-radius: 0;
+}
+
+.footer .form-text {
+  color: #6c757d;
+}
+
+// Copyright Section
+.copyright {
+  background-color: #212529;
+  color: #fff;
+  height: 48px;
+  line-height: 48px;
+}
+
+// Utility Classes
+.text-center {
+  text-align: center;
+}
+
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 15px;
+}
