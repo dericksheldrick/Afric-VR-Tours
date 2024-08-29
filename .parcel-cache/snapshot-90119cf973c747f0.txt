@@ -4,7 +4,7 @@
 98C:\Users\HP\OneDrive\Desktop\Afric Bootstrap\node_modules\@parcel\source-map\dist\wasm-bindings.js133682926523917792 0
 87C:\Users\HP\OneDrive\Desktop\Afric Bootstrap\node_modules\htmlnano\lib\presets\safe.cjs133682926529911893 0
 107C:\Users\HP\OneDrive\Desktop\Afric Bootstrap\node_modules\@swc\helpers\src\_check_private_redeclaration.mjs133682926556141445 0
-90C:\Users\HP\OneDrive\Desktop\Afric Bootstrap\docs\crater of Erta AlÃ© volcano.de3307ae.jpg133693868451300611 0
+90C:\Users\HP\OneDrive\Desktop\Afric Bootstrap\docs\crater of Erta AlÃ© volcano.de3307ae.jpg133693872037275051 0
 130C:\Users\HP\OneDrive\Desktop\Afric Bootstrap\node_modules\@parcel\optimizer-htmlnano\node_modules\svgo\plugins\removeEmptyAttrs.js133682926534449463 0
 85C:\Users\HP\OneDrive\Desktop\Afric Bootstrap\node_modules\bootstrap\scss\_navbar.scss133682929335102511 0
 94C:\Users\HP\OneDrive\Desktop\Afric Bootstrap\node_modules\svgo\plugins\removeOffCanvasPaths.js133682926541750040 0
@@ -14,32 +14,39 @@
 103C:\Users\HP\OneDrive\Desktop\Afric Bootstrap\node_modules\caniuse-lite\data\features\media-fragments.js133682926561507073 0
 87C:\Users\HP\OneDrive\Desktop\Afric Bootstrap\node_modules\@parcel\profiler\lib\types.js133682926520357603 0
 76C:\Users\HP\OneDrive\Desktop\Afric Bootstrap\node_modules\picomatch\index.js133682926509008016 0
-49C:\Users\HP\OneDrive\Desktop\Afric Bootstrap\docs133693868465161454 1
-66C:\Users\HP\OneDrive\Desktop\Afric Bootstrap\node_modules\boolbase133682926508122662 1
-85C:\Users\HP\OneDrive\Desktop\Afric Bootstrap\node_modules\@swc\helpers\cjs\_throw.cjs133682926540438259 0
-91C:\Users\HP\OneDrive\Desktop\Afric Bootstrap\node_modules\svgo\plugins\removeXMLProcInst.js133682926543017692 0
-92C:\Users\HP\OneDrive\Desktop\Afric Bootstrap\node_modules\type-fest\source\set-required.d.ts133682926531567179 0
-127C:\Users\HP\OneDrive\Desktop\Afric Bootstrap\node_modules\css-select\node_modules\entities\lib\esm\generated\encode-html.js.map133682926533093196 0
-74C:\Users\HP\OneDrive\Desktop\Afric Bootstrap\node_modules\msgpackr\LICENSE133682926505955690 0
-99C:\Users\HP\OneDrive\Desktop\Afric Bootstrap\node_modules\@swc\helpers\_\_create_class\package.json133682926552850237 0
-89C:\Users\HP\OneDrive\Desktop\Afric Bootstrap\node_modules\sass\types\legacy\function.d.ts133682954434300421 0
-71C:\Users\HP\OneDrive\Desktop\Afric Bootstrap\docs\platinum.09e1d99b.jpg133693868452471251 0
-98C:\Users\HP\OneDrive\Desktop\Afric Bootstrap\node_modules\csso\node_modules\css-tree\cjs\index.cjs133682926535786273 0
-108C:\Users\HP\OneDrive\Desktop\Afric Bootstrap\node_modules\@parcel\core\test\fixtures\invalid-source-not-file133682926551583626 1
-83C:\Users\HP\OneDrive\Desktop\Afric Bootstrap\node_modules\@parcel\watcher-win32-x64133682926509895321 1
-106C:\Users\HP\OneDrive\Desktop\Afric Bootstrap\node_modules\@swc\core-win32-x64-msvc\swc.win32-x64-msvc.node133682926801333465 0
-75C:\Users\HP\OneDrive\Desktop\Afric Bootstrap\node_modules\sass\sass.dart.js133682954433942064 0
-57C:\Users\HP\OneDrive\Desktop\Afric Bootstrap\node_modules133682954435078559 1
-74C:\Users\HP\OneDrive\Desktop\Afric Bootstrap\node_modules\type-fest\source133682926532843895 1
-67C:\Users\HP\OneDrive\Desktop\Afric Bootstrap\docs\index.fdf29a82.js133693868451507581 0
-85C:\Users\HP\OneDrive\Desktop\Afric Bootstrap\node_modules\domelementtype\lib\index.js133682926510149787 0
-75C:\Users\HP\OneDrive\Desktop\Afric Bootstrap\node_modules\stable\index.d.ts133682926507072788 0
-95C:\Users\HP\OneDrive\Desktop\Afric Bootstrap\node_modules\caniuse-lite\data\features\rellist.js133682926564449194 0
+49C:\Users\HP\OneDrive\Desktop\Afric Bootstrap\docs133693872042392190 1
+120C:\Users\HP\OneDrive\Desktop\Afric Bootstrap\node_modules\@parcel\optimizer-htmlnano\node_modules\css-select\lib\sort.js133682926520307378 0
+81C:\Users\HP\OneDrive\Desktop\Afric Bootstrap\node_modules\semver\classes\range.js133682926532016323 0
+114C:\Users\HP\OneDrive\Desktop\Afric Bootstrap\node_modules\@parcel\optimizer-htmlnano\node_modules\svgo\lib\path.js133682926532345103 0
+124C:\Users\HP\OneDrive\Desktop\Afric Bootstrap\node_modules\csso\node_modules\css-tree\cjs\syntax\node\PseudoClassSelector.cjs133682926542897053 0
+82C:\Users\HP\OneDrive\Desktop\Afric Bootstrap\node_modules\js-yaml\lib\type\omap.js133682926528306009 0
+65C:\Users\HP\OneDrive\Desktop\Afric Bootstrap\src\imag\namibia.jpg133688807785232157 0
+81C:\Users\HP\OneDrive\Desktop\Afric Bootstrap\node_modules\semver\functions\inc.js133682926523478798 0
+124C:\Users\HP\OneDrive\Desktop\Afric Bootstrap\node_modules\@parcel\optimizer-htmlnano\node_modules\svgo\plugins\cleanupIDs.js133682926520307378 0
+72C:\Users\HP\OneDrive\Desktop\Afric Bootstrap\docs\index.8066d606.css.map133693872037215208 0
+111C:\Users\HP\OneDrive\Desktop\Afric Bootstrap\node_modules\caniuse-lite\data\features\comparedocumentposition.js133682926546557180 0
+89C:\Users\HP\OneDrive\Desktop\Afric Bootstrap\node_modules\caniuse-lite\data\regions\VU.js133682926567700912 0
+80C:\Users\HP\OneDrive\Desktop\Afric Bootstrap\node_modules\json5\lib\stringify.js133682926518282715 0
+64C:\Users\HP\OneDrive\Desktop\Afric Bootstrap\node_modules\semver133682926534192272 1
+101C:\Users\HP\OneDrive\Desktop\Afric Bootstrap\node_modules\htmlnano\lib\modules\removeOptionalTags.cjs133682926528685022 0
+85C:\Users\HP\OneDrive\Desktop\Afric Bootstrap\node_modules\sass\types\value\color.d.ts133682954434161267 0
+87C:\Users\HP\OneDrive\Desktop\Afric Bootstrap\node_modules\css-tree\cjs\utils\string.cjs133682926544833604 0
+89C:\Users\HP\OneDrive\Desktop\Afric Bootstrap\node_modules\caniuse-lite\data\regions\KN.js133682926560380099 0
+99C:\Users\HP\OneDrive\Desktop\Afric Bootstrap\node_modules\type-fest\source\require-exactly-one.d.ts133682926531048686 0
+121C:\Users\HP\OneDrive\Desktop\Afric Bootstrap\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\lexer\error.js133682926534401276 0
+73C:\Users\HP\OneDrive\Desktop\Afric Bootstrap\docs\Wild beast.5b7d73e6.jpg133693872038481828 0
+108C:\Users\HP\OneDrive\Desktop\Afric Bootstrap\node_modules\@swc\helpers\_\_class_apply_descriptor_destructure133682926551593596 1
+68C:\Users\HP\OneDrive\Desktop\Afric Bootstrap\docs\index.8066d606.css133693872036487155 0
+91C:\Users\HP\OneDrive\Desktop\Afric Bootstrap\node_modules\lmdb\dependencies\lz4\lib\lz4hc.h133682926545559723 0
+110C:\Users\HP\OneDrive\Desktop\Afric Bootstrap\node_modules\csso\node_modules\css-tree\lib\syntax\node\Number.js133682926552032523 0
+60C:\Users\HP\OneDrive\Desktop\Afric Bootstrap\docs\index.html133693872036916005 0
+91C:\Users\HP\OneDrive\Desktop\Afric Bootstrap\node_modules\cosmiconfig\dist\loaders.d.ts.map133682926531318281 0
+86C:\Users\HP\OneDrive\Desktop\Afric Bootstrap\node_modules\type-fest\source\except.d.ts133682926522192375 0
 125C:\Users\HP\OneDrive\Desktop\Afric Bootstrap\node_modules\@parcel\optimizer-htmlnano\node_modules\svgo\plugins\mergeStyles.js133682926531178531 0
 80C:\Users\HP\OneDrive\Desktop\Afric Bootstrap\node_modules\nth-check\lib\parse.js133682926514792154 0
 103C:\Users\HP\OneDrive\Desktop\Afric Bootstrap\node_modules\@swc\helpers\src\_interop_require_default.mjs133682926557896731 0
 111C:\Users\HP\OneDrive\Desktop\Afric Bootstrap\node_modules\@popperjs\core\lib\dom-utils\getWindowScrollBarX.d.ts133682929328839268 0
-70C:\Users\HP\OneDrive\Desktop\Afric Bootstrap\docs\namibia.75d5b33d.jpg133693868451916670 0
+70C:\Users\HP\OneDrive\Desktop\Afric Bootstrap\docs\namibia.75d5b33d.jpg133693872037594202 0
 96C:\Users\HP\OneDrive\Desktop\Afric Bootstrap\node_modules\posthtml-parser\dist\chunk.T6SARJYH.js133682926507721125 0
 83C:\Users\HP\OneDrive\Desktop\Afric Bootstrap\node_modules\@parcel\core\src\utils.js133682926549550465 0
 88C:\Users\HP\OneDrive\Desktop\Afric Bootstrap\node_modules\source-map-js\lib\array-set.js133682926507561522 0
@@ -53,7 +60,7 @@
 89C:\Users\HP\OneDrive\Desktop\Afric Bootstrap\node_modules\update-browserslist-db\utils.js133682926512408429 0
 95C:\Users\HP\OneDrive\Desktop\Afric Bootstrap\node_modules\bootstrap\dist\js\bootstrap.bundle.js133682929326875812 0
 87C:\Users\HP\OneDrive\Desktop\Afric Bootstrap\node_modules\posthtml-parser\dist\index.js133682926509057386 0
-71C:\Users\HP\OneDrive\Desktop\Afric Bootstrap\docs\Bg_image.654b6e63.jpg133693868452062166 0
+71C:\Users\HP\OneDrive\Desktop\Afric Bootstrap\docs\Bg_image.654b6e63.jpg133693872037644082 0
 67C:\Users\HP\OneDrive\Desktop\Afric Bootstrap\node_modules\nth-check133682926524839030 1
 62C:\Users\HP\OneDrive\Desktop\Afric Bootstrap\src\imag\Gold.jpg133688968099669016 0
 96C:\Users\HP\OneDrive\Desktop\Afric Bootstrap\node_modules\@popperjs\core\lib\modifiers\flip.d.ts133682929329817352 0
@@ -67,8 +74,31 @@
 85C:\Users\HP\OneDrive\Desktop\Afric Bootstrap\node_modules\sass\types\value\index.d.ts133682954434449921 0
 83C:\Users\HP\OneDrive\Desktop\Afric Bootstrap\node_modules\@parcel\core\src\index.js133682926540652999 0
 77C:\Users\HP\OneDrive\Desktop\Afric Bootstrap\node_modules\parcel\package.json133682926515490587 0
-71C:\Users\HP\OneDrive\Desktop\Afric Bootstrap\docs\table_mt.50897a96.jpg133693868452062166 0
+71C:\Users\HP\OneDrive\Desktop\Afric Bootstrap\docs\table_mt.50897a96.jpg133693872037644082 0
 105C:\Users\HP\OneDrive\Desktop\Afric Bootstrap\node_modules\caniuse-lite\data\features\custom-elementsv1.js133682926554047326 0
+66C:\Users\HP\OneDrive\Desktop\Afric Bootstrap\node_modules\boolbase133682926508122662 1
+85C:\Users\HP\OneDrive\Desktop\Afric Bootstrap\node_modules\@swc\helpers\cjs\_throw.cjs133682926540438259 0
+91C:\Users\HP\OneDrive\Desktop\Afric Bootstrap\node_modules\svgo\plugins\removeXMLProcInst.js133682926543017692 0
+92C:\Users\HP\OneDrive\Desktop\Afric Bootstrap\node_modules\type-fest\source\set-required.d.ts133682926531567179 0
+127C:\Users\HP\OneDrive\Desktop\Afric Bootstrap\node_modules\css-select\node_modules\entities\lib\esm\generated\encode-html.js.map133682926533093196 0
+74C:\Users\HP\OneDrive\Desktop\Afric Bootstrap\node_modules\msgpackr\LICENSE133682926505955690 0
+99C:\Users\HP\OneDrive\Desktop\Afric Bootstrap\node_modules\@swc\helpers\_\_create_class\package.json133682926552850237 0
+89C:\Users\HP\OneDrive\Desktop\Afric Bootstrap\node_modules\sass\types\legacy\function.d.ts133682954434300421 0
+71C:\Users\HP\OneDrive\Desktop\Afric Bootstrap\docs\platinum.09e1d99b.jpg133693872037813611 0
+98C:\Users\HP\OneDrive\Desktop\Afric Bootstrap\node_modules\csso\node_modules\css-tree\cjs\index.cjs133682926535786273 0
+108C:\Users\HP\OneDrive\Desktop\Afric Bootstrap\node_modules\@parcel\core\test\fixtures\invalid-source-not-file133682926551583626 1
+83C:\Users\HP\OneDrive\Desktop\Afric Bootstrap\node_modules\@parcel\watcher-win32-x64133682926509895321 1
+106C:\Users\HP\OneDrive\Desktop\Afric Bootstrap\node_modules\@swc\core-win32-x64-msvc\swc.win32-x64-msvc.node133682926801333465 0
+75C:\Users\HP\OneDrive\Desktop\Afric Bootstrap\node_modules\sass\sass.dart.js133682954433942064 0
+57C:\Users\HP\OneDrive\Desktop\Afric Bootstrap\node_modules133682954435078559 1
+74C:\Users\HP\OneDrive\Desktop\Afric Bootstrap\node_modules\type-fest\source133682926532843895 1
+67C:\Users\HP\OneDrive\Desktop\Afric Bootstrap\docs\index.fdf29a82.js133693872037903372 0
+85C:\Users\HP\OneDrive\Desktop\Afric Bootstrap\node_modules\domelementtype\lib\index.js133682926510149787 0
+75C:\Users\HP\OneDrive\Desktop\Afric Bootstrap\node_modules\stable\index.d.ts133682926507072788 0
+95C:\Users\HP\OneDrive\Desktop\Afric Bootstrap\node_modules\caniuse-lite\data\features\rellist.js133682926564449194 0
+100C:\Users\HP\OneDrive\Desktop\Afric Bootstrap\node_modules\@parcel\packager-js\lib\CJSOutputFormat.js133682926507791374 0
+79C:\Users\HP\OneDrive\Desktop\Afric Bootstrap\node_modules\posthtml\node_modules133682926476973244 1
+69C:\Users\HP\OneDrive\Desktop\Afric Bootstrap\docs\silver.f8127de3.jpg133693872038042991 0
 87C:\Users\HP\OneDrive\Desktop\Afric Bootstrap\node_modules\json-parse-even-better-errors133682926511510832 1
 82C:\Users\HP\OneDrive\Desktop\Afric Bootstrap\node_modules\abortcontroller-polyfill133682926522014200 1
 78C:\Users\HP\OneDrive\Desktop\Afric Bootstrap\node_modules\timsort\package.json133682926505806091 0
@@ -78,27 +108,12 @@
 102C:\Users\HP\OneDrive\Desktop\Afric Bootstrap\node_modules\node-gyp-build-optional-packages\optional.js133682926511879848 0
 82C:\Users\HP\OneDrive\Desktop\Afric Bootstrap\node_modules\css-what\lib\es\index.js133682926510563464 0
 72C:\Users\HP\OneDrive\Desktop\Afric Bootstrap\node_modules\is-binary-path133682954433333055 1
-71C:\Users\HP\OneDrive\Desktop\Afric Bootstrap\docs\index.fdf29a82.js.map133693868452085348 0
-100C:\Users\HP\OneDrive\Desktop\Afric Bootstrap\node_modules\@parcel\packager-js\lib\CJSOutputFormat.js133682926507791374 0
-79C:\Users\HP\OneDrive\Desktop\Afric Bootstrap\node_modules\posthtml\node_modules133682926476973244 1
-69C:\Users\HP\OneDrive\Desktop\Afric Bootstrap\docs\silver.f8127de3.jpg133693868452685665 0
-108C:\Users\HP\OneDrive\Desktop\Afric Bootstrap\node_modules\@swc\helpers\_\_class_apply_descriptor_destructure133682926551593596 1
-68C:\Users\HP\OneDrive\Desktop\Afric Bootstrap\docs\index.8066d606.css133693868458599448 0
-91C:\Users\HP\OneDrive\Desktop\Afric Bootstrap\node_modules\lmdb\dependencies\lz4\lib\lz4hc.h133682926545559723 0
-80C:\Users\HP\OneDrive\Desktop\Afric Bootstrap\node_modules\json5\lib\stringify.js133682926518282715 0
-64C:\Users\HP\OneDrive\Desktop\Afric Bootstrap\node_modules\semver133682926534192272 1
-101C:\Users\HP\OneDrive\Desktop\Afric Bootstrap\node_modules\htmlnano\lib\modules\removeOptionalTags.cjs133682926528685022 0
-85C:\Users\HP\OneDrive\Desktop\Afric Bootstrap\node_modules\sass\types\value\color.d.ts133682954434161267 0
-87C:\Users\HP\OneDrive\Desktop\Afric Bootstrap\node_modules\css-tree\cjs\utils\string.cjs133682926544833604 0
-89C:\Users\HP\OneDrive\Desktop\Afric Bootstrap\node_modules\caniuse-lite\data\regions\KN.js133682926560380099 0
-99C:\Users\HP\OneDrive\Desktop\Afric Bootstrap\node_modules\type-fest\source\require-exactly-one.d.ts133682926531048686 0
-121C:\Users\HP\OneDrive\Desktop\Afric Bootstrap\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\lexer\error.js133682926534401276 0
-73C:\Users\HP\OneDrive\Desktop\Afric Bootstrap\docs\Wild beast.5b7d73e6.jpg133693868453372857 0
+71C:\Users\HP\OneDrive\Desktop\Afric Bootstrap\docs\index.fdf29a82.js.map133693872038451910 0
 77C:\Users\HP\OneDrive\Desktop\Afric Bootstrap\node_modules\is-extglob\index.js133682926510234245 0
 103C:\Users\HP\OneDrive\Desktop\Afric Bootstrap\node_modules\@parcel\transformer-svg\src\SVGTransformer.js133682926516786713 0
 84C:\Users\HP\OneDrive\Desktop\Afric Bootstrap\node_modules\sass\types\value\list.d.ts133682954434481413 0
 130C:\Users\HP\OneDrive\Desktop\Afric Bootstrap\node_modules\@parcel\optimizer-svgo\node_modules\mdn-data\api\inheritance.schema.json133682926521434852 0
-75C:\Users\HP\OneDrive\Desktop\Afric Bootstrap\docs\lake Bogoria.0b82defb.jpg133693868453915318 0
+75C:\Users\HP\OneDrive\Desktop\Afric Bootstrap\docs\lake Bogoria.0b82defb.jpg133693872038771046 0
 88C:\Users\HP\OneDrive\Desktop\Afric Bootstrap\node_modules\css-tree\cjs\definition-syntax133682926546956143 1
 89C:\Users\HP\OneDrive\Desktop\Afric Bootstrap\node_modules\csso\cjs\clean\TypeSelector.cjs133682926532165694 0
 84C:\Users\HP\OneDrive\Desktop\Afric Bootstrap\node_modules\svgo\plugins\reusePaths.js133682926543206208 0
@@ -110,7 +125,7 @@
 67C:\Users\HP\OneDrive\Desktop\Afric Bootstrap\node_modules\js-tokens133682926511520814 1
 92C:\Users\HP\OneDrive\Desktop\Afric Bootstrap\node_modules\cosmiconfig\dist\ExplorerBase.d.ts133682926533900935 0
 88C:\Users\HP\OneDrive\Desktop\Afric Bootstrap\node_modules\postcss-value-parser\README.md133682926515819309 0
-77C:\Users\HP\OneDrive\Desktop\Afric Bootstrap\docs\victoria falls.2e352ee6.jpg133693868454191464 0
+77C:\Users\HP\OneDrive\Desktop\Afric Bootstrap\docs\victoria falls.2e352ee6.jpg133693872038940595 0
 79C:\Users\HP\OneDrive\Desktop\Afric Bootstrap\node_modules\mdn-data\css\index.js133682926509347170 0
 102C:\Users\HP\OneDrive\Desktop\Afric Bootstrap\node_modules\dom-serializer\lib\esm\foreignNames.d.ts.map133682926517155729 0
 80C:\Users\HP\OneDrive\Desktop\Afric Bootstrap\node_modules\css-tree\dist\data.cjs133682926531337926 0
@@ -128,27 +143,12 @@
 91C:\Users\HP\OneDrive\Desktop\Afric Bootstrap\node_modules\@swc\helpers\esm\_ts_generator.js133682926549249953 0
 74C:\Users\HP\OneDrive\Desktop\Afric Bootstrap\node_modules\msgpackr-extract133682926514532778 1
 70C:\Users\HP\OneDrive\Desktop\Afric Bootstrap\src\imag\giza pyramid.jpg133683616629190726 0
-69C:\Users\HP\OneDrive\Desktop\Afric Bootstrap\docs\sahara.3038e591.jpg133693868454191717 0
-120C:\Users\HP\OneDrive\Desktop\Afric Bootstrap\node_modules\@parcel\optimizer-htmlnano\node_modules\css-select\lib\sort.js133682926520307378 0
-81C:\Users\HP\OneDrive\Desktop\Afric Bootstrap\node_modules\semver\classes\range.js133682926532016323 0
-114C:\Users\HP\OneDrive\Desktop\Afric Bootstrap\node_modules\@parcel\optimizer-htmlnano\node_modules\svgo\lib\path.js133682926532345103 0
-124C:\Users\HP\OneDrive\Desktop\Afric Bootstrap\node_modules\csso\node_modules\css-tree\cjs\syntax\node\PseudoClassSelector.cjs133682926542897053 0
-82C:\Users\HP\OneDrive\Desktop\Afric Bootstrap\node_modules\js-yaml\lib\type\omap.js133682926528306009 0
-65C:\Users\HP\OneDrive\Desktop\Afric Bootstrap\src\imag\namibia.jpg133688807785232157 0
-81C:\Users\HP\OneDrive\Desktop\Afric Bootstrap\node_modules\semver\functions\inc.js133682926523478798 0
-124C:\Users\HP\OneDrive\Desktop\Afric Bootstrap\node_modules\@parcel\optimizer-htmlnano\node_modules\svgo\plugins\cleanupIDs.js133682926520307378 0
-72C:\Users\HP\OneDrive\Desktop\Afric Bootstrap\docs\index.8066d606.css.map133693868458688924 0
-111C:\Users\HP\OneDrive\Desktop\Afric Bootstrap\node_modules\caniuse-lite\data\features\comparedocumentposition.js133682926546557180 0
-89C:\Users\HP\OneDrive\Desktop\Afric Bootstrap\node_modules\caniuse-lite\data\regions\VU.js133682926567700912 0
-110C:\Users\HP\OneDrive\Desktop\Afric Bootstrap\node_modules\csso\node_modules\css-tree\lib\syntax\node\Number.js133682926552032523 0
-60C:\Users\HP\OneDrive\Desktop\Afric Bootstrap\docs\index.html133693868459822937 0
-91C:\Users\HP\OneDrive\Desktop\Afric Bootstrap\node_modules\cosmiconfig\dist\loaders.d.ts.map133682926531318281 0
-86C:\Users\HP\OneDrive\Desktop\Afric Bootstrap\node_modules\type-fest\source\except.d.ts133682926522192375 0
+69C:\Users\HP\OneDrive\Desktop\Afric Bootstrap\docs\sahara.3038e591.jpg133693872038970511 0
 147C:\Users\HP\OneDrive\Desktop\Afric Bootstrap\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\syntax\node\PseudoElementSelector.js133682926544313213 0
 113C:\Users\HP\OneDrive\Desktop\Afric Bootstrap\node_modules\@swc\helpers\_\_class_apply_descriptor_set\package.json133682926551673483 0
 64C:\Users\HP\OneDrive\Desktop\Afric Bootstrap\src\imag\silver.jpg133689061252558426 0
 92C:\Users\HP\OneDrive\Desktop\Afric Bootstrap\node_modules\@swc\helpers\_\_throw\package.json133682926554605625 0
-67C:\Users\HP\OneDrive\Desktop\Afric Bootstrap\docs\Gold.3c33cce1.jpg133693868465111211 0
+67C:\Users\HP\OneDrive\Desktop\Afric Bootstrap\docs\Gold.3c33cce1.jpg133693872042382199 0
 83C:\Users\HP\OneDrive\Desktop\Afric Bootstrap\node_modules\lmdb\src\v8-functions.cpp133682926543121127 0
 77C:\Users\HP\OneDrive\Desktop\Afric Bootstrap\node_modules\csso\lib\version.js133682926543864375 0
 74C:\Users\HP\OneDrive\Desktop\Afric Bootstrap\node_modules\stable\README.md133682926508618584 0
@@ -190,7 +190,7 @@
 97C:\Users\HP\OneDrive\Desktop\Afric Bootstrap\node_modules\css-tree\cjs\definition-syntax\walk.cjs133682926546986287 0
 66C:\Users\HP\OneDrive\Desktop\Afric Bootstrap\src\imag\Bg_image.jpg133688793139031763 0
 79C:\Users\HP\OneDrive\Desktop\Afric Bootstrap\node_modules\csso\dist\version.cjs133682926533415402 0
-59C:\Users\HP\OneDrive\Desktop\Afric Bootstrap\src\.gitignore133693807341223819 0
+59C:\Users\HP\OneDrive\Desktop\Afric Bootstrap\src\.gitignore133693869383396044 0
 115C:\Users\HP\OneDrive\Desktop\Afric Bootstrap\node_modules\@parcel\core\test\fixtures\config-node-pipeline\.parcelrc133682926513824753 0
 83C:\Users\HP\OneDrive\Desktop\Afric Bootstrap\node_modules\@parcel\core\package.json133682926550676140 0
 121C:\Users\HP\OneDrive\Desktop\Afric Bootstrap\node_modules\@parcel\package-manager\test\fixtures\packages\foo-2.0\index.js133682926523214579 0
@@ -6555,4 +6555,4 @@
 69C:\Users\HP\OneDrive\Desktop\Afric Bootstrap\node_modules\.bin\parcel133682926802371040 0
 73C:\Users\HP\OneDrive\Desktop\Afric Bootstrap\node_modules\.bin\semver.ps1133682926802371040 0
 85C:\Users\HP\OneDrive\Desktop\Afric Bootstrap\node_modules\.bin\update-browserslist-db133682926802380740 0
-89C:\Users\HP\OneDrive\Desktop\Afric Bootstrap\docs\crater of Erta Alé volcano.de3307ae.jpg133693868451300611 0
+89C:\Users\HP\OneDrive\Desktop\Afric Bootstrap\docs\crater of Erta Alé volcano.de3307ae.jpg133693872037275051 0
