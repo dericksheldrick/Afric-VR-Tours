@@ -610,6 +610,23 @@ function handleFormSubmission(formId, modalId, successMessage) {
 handleFormSubmission("signupForm", "signupModal", (formData)=>`Sign up successful for ${formData.get("signupEmail")}!`);
 handleFormSubmission("forgotPasswordForm", "forgotPasswordModal", (formData)=>`Password reset link sent to ${formData.get("forgotEmail")}!`);
 handleFormSubmission("registrationForm", "registrationModal", (formData)=>`Registration successful for ${formData.get("registrationName")} (${formData.get("registrationEmail")}) for the ${formData.get("registrationPackage")} package!`);
+// Handle Package Selection
+document.getElementById("packageForm").addEventListener("submit", function(event) {
+    event.preventDefault();
+    const selectedPackage = document.getElementById("packageSelect").value;
+    if (!selectedPackage) {
+        alert("Please select a package.");
+        return;
+    }
+    // Pass selected package to registration modal
+    document.getElementById("registrationPackage").value = selectedPackage;
+    // Close the package selection modal
+    const packageSelectionModal = (0, _bootstrap.Modal).getInstance(document.getElementById("packageSelectionModal"));
+    packageSelectionModal.hide();
+    // Open the registration modal
+    const registrationModal = new (0, _bootstrap.Modal)(document.getElementById("registrationModal"));
+    registrationModal.show();
+});
 // Capture package selection and populate the registration modal
 document.querySelectorAll('[data-bs-toggle="modal"]').forEach((button)=>{
     button.addEventListener("click", function() {

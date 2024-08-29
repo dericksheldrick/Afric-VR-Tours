@@ -878,72 +878,6 @@
                 </div>
                 <div class="mb-3">
                   <label for="registrationPackage" class="form-label"
-                    >Select Package</label
-                  >
-                  <select class="form-select" id="registrationPackage" required>
-                    <option value="">Choose...</option>
-                    <option value="Gold">Gold Package - $499</option>
-                    <option value="Silver">Silver Package - $299</option>
-                    <option value="Platinum">Platinum Package - $799</option>
-                  </select>
-                </div>
-                <button type="submit" class="btn btn-primary w-100">
-                  Register
-                </button>
-              </form>
-            </div>
-          </div>
-        </div>
-      </div>
-      <!-- booking package Modal -->
-      <div
-        class="modal fade"
-        id="registrationModal"
-        tabindex="-1"
-        aria-labelledby="registrationModalLabel"
-        aria-hidden="true"
-      >
-        <div class="modal-dialog">
-          <div class="modal-content">
-            <div class="modal-header">
-              <h1 class="modal-title fs-5" id="registrationModalLabel">
-                Register for a Tour
-              </h1>
-              <button
-                type="button"
-                class="btn-close"
-                data-bs-dismiss="modal"
-                aria-label="Close"
-              ></button>
-            </div>
-            <div class="modal-body">
-              <form id="registrationForm">
-                <div class="mb-3">
-                  <label for="registrationName" class="form-label"
-                    >Full Name</label
-                  >
-                  <input
-                    type="text"
-                    class="form-control"
-                    id="registrationName"
-                    placeholder="Your Full Name"
-                    required
-                  />
-                </div>
-                <div class="mb-3">
-                  <label for="registrationEmail" class="form-label"
-                    >Email address</label
-                  >
-                  <input
-                    type="email"
-                    class="form-control"
-                    id="registrationEmail"
-                    placeholder="email@example.com"
-                    required
-                  />
-                </div>
-                <div class="mb-3">
-                  <label for="registrationPackage" class="form-label"
                     >Selected Package</label
                   >
                   <input
@@ -955,6 +889,49 @@
                 </div>
                 <button type="submit" class="btn btn-primary w-100">
                   Register
+                </button>
+              </form>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Package Selection Modal -->
+      <div
+        class="modal fade"
+        id="packageSelectionModal"
+        tabindex="-1"
+        aria-labelledby="packageSelectionModalLabel"
+        aria-hidden="true"
+      >
+        <div class="modal-dialog">
+          <div class="modal-content">
+            <div class="modal-header">
+              <h1 class="modal-title fs-5" id="packageSelectionModalLabel">
+                Select Your Package
+              </h1>
+              <button
+                type="button"
+                class="btn-close"
+                data-bs-dismiss="modal"
+                aria-label="Close"
+              ></button>
+            </div>
+            <div class="modal-body">
+              <form id="packageForm">
+                <div class="mb-3">
+                  <label for="packageSelect" class="form-label"
+                    >Select Package</label
+                  >
+                  <select class="form-select" id="packageSelect" required>
+                    <option value="">Choose...</option>
+                    <option value="Gold">Gold Package - $499</option>
+                    <option value="Silver">Silver Package - $299</option>
+                    <option value="Platinum">Platinum Package - $799</option>
+                  </select>
+                </div>
+                <button type="submit" class="btn btn-primary w-100">
+                  Next
                 </button>
               </form>
             </div>
