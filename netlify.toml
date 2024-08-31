@@ -1,0 +1,7 @@
+[build]
+  command = "npm run build"
+  publish = "docs"
+
+# Optional: Set the Node version if necessary
+[context.production.environment]
+  NODE_VERSION = "14"
